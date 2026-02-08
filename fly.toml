@@ -4,7 +4,7 @@
 #
 
 app = 'almanak'
-primary_region = 'iad'
+primary_region = 'fra'
 
 [env]
   NODE_ENV = "production"
