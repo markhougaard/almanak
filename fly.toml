@@ -6,6 +6,10 @@
 app = 'almanak'
 primary_region = 'iad'
 
+[env]
+  NODE_ENV = "production"
+  PORT = "3000"
+
 [build]
 
 [processes]
