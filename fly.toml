@@ -1,0 +1,3 @@
+app = "almanak"
+[[services.http_checks]]
+  force_https = true
