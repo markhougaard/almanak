@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-warm-50: oklch(0.985 0.007 75);
+  --color-warm-100: oklch(0.965 0.015 75);
+  --color-warm-200: oklch(0.925 0.025 75);
+  --color-warm-300: oklch(0.87 0.035 70);
+  --color-warm-400: oklch(0.75 0.045 60);
+  --color-warm-500: oklch(0.65 0.05 55);
+  --color-warm-600: oklch(0.55 0.05 50);
+  --color-warm-700: oklch(0.45 0.05 50);
+  --color-warm-800: oklch(0.35 0.05 50);
+  --color-warm-900: oklch(0.25 0.04 50);
+}
